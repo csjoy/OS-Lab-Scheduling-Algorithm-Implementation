@@ -1,4 +1,4 @@
 # OS-Lab-Scheduling-Algorithm-Implementation
 
-Fisrt Come First Serve Scheduling Algorithm
-Round Robin Scheduling Algorithm
+1. Fisrt Come First Serve Scheduling Algorithm
+2. Round Robin Scheduling Algorithm
